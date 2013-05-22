@@ -11,7 +11,7 @@ As a member of the HuffPost Tech Team you will start launching new software ASAP
 HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
 
 Responsibilities
-
+----------------
 * Work with world class editors, and infrastructure engineers to maintain and create the next generation HuffPost's backend systems and services
 * Build efficient and reusable service oriented architecture and APIs
 * Identify and address performance bottlenecks
@@ -20,7 +20,7 @@ Responsibilities
 * Ensure HuffPost takes advantage of the best practices for backend engineering
 
 General Requirements
-
+--------------------
 * Experience with ticketing systems like JIRA
 * Experience with Test Driven Development and Continuous Integration
 * Experience with Agile Development
@@ -30,13 +30,13 @@ General Requirements
 * Strong interest in journalism, media, or any of the liberal arts
 
 Specific Requirements
-
+---------------------
 * Expertise and experience with with almost any of these languages: PHP, Python, Ruby, Scala, Java, C, Erlang.
 * Expertise and experience with almost any of these frameworks: CodeIgniter, Kohana, Django, Pylons, Rails, Hibernate, Spring.
 * Expertise and experience with data stores, HTTP, REST, and caching algorithms and frameworks (Memcached, Redis)
 
 Location
-
+--------
 The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (A, C, E, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
 
 
