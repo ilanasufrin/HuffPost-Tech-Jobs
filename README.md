@@ -7,6 +7,14 @@ As a member of the HuffPost Tech Team you will start launching new software ASAP
 
 HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
 
+Roles
+-----
+* Frontend Engineer
+* Backend Engineer
+* Android Engineer
+* iOS Engineer
+* UNIX Systems Engineer
+
 Location
 --------
 The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (A, C, E, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
