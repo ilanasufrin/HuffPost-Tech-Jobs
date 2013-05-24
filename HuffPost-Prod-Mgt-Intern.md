@@ -4,19 +4,26 @@ Product Management Intern
 -------------------------
 New York, NY
 
-Hours: Flexible, but prefer as close to full-time as possible
+Are you ready to rain change down on the world of digital journalism? Are you tired of waiting for the future of media and want to help HuffPost invent it? The Huffington Post, a member of the AOL family of companies, continues to have a substantial impact on how millions of people around the world consume and converse about the important event in their lives. We publish more than a thousand articles and blog posts every day. We have over 200 million comments from our fiercely loyal community. Our Pulitzer Prize winning editors and reporters have been recognized as industry leaders. But the best kept secret about HuffPost is the world class engineering and design team who work hand-in-hand with our editorial staff to create some of the most innovative Internet media applications on the web, on your pad, and on your phone. With million of users and billions of page views every month the Huffington Post challenges the engineer and designer with a huge audience and a chance to make a significant difference in the lives of people all over the world.
 
-The Huffington Post serves more than 1.3 billion page views each month to more than 45 million unique visitors (March 2013, comScore). We have more than 50 sections in the US alone, and we have editions in six different countries, on three different continents, in four different languages (with more on the way!). Wouldn't you like to be part of helping to shape how those readers consume our content, and help us think up novel ways to engage new readers? 
+As a member of the HuffPost Tech Team you will start launching new software ASAP. We use a real-world agile development process that includes rapid development of new products designed by small teams working closely with our tech-savvy data-driven editors. We are innovating on the web with partners like TED Talks and leading editorial teams in North America, South America, Europe, Asia, and Africa; on mobile with new and ground breaking iOS and Android applications and responsive websites; and with our realtime video network HuffPost Live.
+
+HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
 
 HuffPost is looking for a Product Management intern to embed within the the Product team to work on a number of different reader- and editor-facing tasks, including (but not limited to) -- 
-* gathering data 
-* working in JIRA, Github, Jenkins, and other product/project management tools
-* generating ideas for enhancing existing products
-* developing new product ideas
-* managing product development queues
 
-The ideal candidate will have the following characteristics -- 
+Hours: Flexible, but prefer as close to full-time as possible
 
+Responsibilities
+----------------
+* Gathering data 
+* Working in JIRA, Github, Jenkins, and other product/project management tools
+* Generating ideas for enhancing existing products
+* Developing new product ideas
+* Managing product development queues
+
+Requirements
+------------
 * a good sense of the web 
 * superior organization skills
 * great communication skills
