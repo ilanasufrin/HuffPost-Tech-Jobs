@@ -9,9 +9,10 @@ HuffPost Tech Team members are hardcore software development and design professi
 
 Responsibilities
 ----------------
-We are seeking a talented system administrator to work on our team managing our web hosting infrastructure. You will be tasked with managing our entire hosting infrastructure across development and production environments. Ideal candidates will have a can-do attitude, passion for technology, and a penchant for security and expert-level system administration skills. You will be working with a small, dynamic and smart team that works hard and has a lot of fun.
-
-The ideal candidate is someone that goes far beyond task work: you should be able to discover what needs to be done, figure out how to do it and get it done. 
+* Build and scale HuffPost's secure, high performance web infrastructure
+* Use both open source and commerical tech to create internal and external facing services
+* Create systems that are automated, well documented, and testible
+* Support HuffPost's sites, apps, and services
 
 
 General Requirements
@@ -24,6 +25,7 @@ General Requirements
 Specific Requirements
 ---------------------
 * Enterprise level Linux expert with experience in load-balanced web servers. (CentOS is a plus) 
+* Deep experience with Shell scripting
 * Web services, caching and load balancing expertise. (Apache, memcache, nginx, varnish, Akamai, Redis)
 * Expertise with Git and/or Subversion.
 * Web development experience. (HTML, PHP & Javascript a strong plus)
