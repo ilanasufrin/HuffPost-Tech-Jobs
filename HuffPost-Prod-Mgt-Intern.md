@@ -8,11 +8,11 @@ Are you ready to rain change down on the world of digital journalism? Are you ti
 
 As a member of the HuffPost Tech Team you will start launching new software ASAP. We use a real-world agile development process that includes rapid development of new products designed by small teams working closely with our tech-savvy data-driven editors. We are innovating on the web with partners like TED Talks and leading editorial teams in North America, South America, Europe, Asia, and Africa; on mobile with new and ground breaking iOS and Android applications and responsive websites; and with our realtime video network HuffPost Live.
 
-HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
+HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know everyone but large enough that you'll find a great work-life balance.
 
-HuffPost is looking for a Product Management intern to embed within the the Product team to work on a number of different reader- and editor-facing tasks, including (but not limited to) -- 
+HuffPost is looking for a Product Management intern to embed within the Product team to work on a number of different reader- and editor-facing tasks.
 
-Hours: Flexible, but prefer as close to full-time as possible
+Hours: Flexible, but prefer as close to full-time as possible.
 
 Responsibilities
 ----------------
