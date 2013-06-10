@@ -1,5 +1,5 @@
-Digital Design
-==============
+Digital Designer
+================
 Huffington Post Digital Designer
 --------------------------------
 New York, NY
@@ -12,19 +12,22 @@ HuffPost Tech Team members are hardcore software development and design professi
 
 Responsibilities
 ----------------
+* Own the design role on one of our agile product teams
+* Obsess over design concepts and how they are translated into pixels
+* Work closely with our product managers and developers to built fully modern web and mobile sites and applications
+* Work from design principles and from real world data
+
 General Requirements
 --------------------
+* Experience taking initiative, and building things from scratch.
+* Experience working collaboratively in cross disciplinary teams including editorial, sales, and tech.
+* Ability to iterate quickly in a fast paced environment.
+
 Specific Requirements
 ---------------------
-
-QUALIFICATIONS:
-• A stellar portfolio of engaging products you've designed; editorial experience is important.
-• Experience taking initiative, and building things from scratch.
-• Experience working collaboratively in cross disciplinary teams including editorial, sales, and tech.
-• Jedi Master skills with Adobe Creative Suite as well as a pen
-• Ability to iterate quickly in a fast paced environment.
-• Degree in Design.
-• Cool points if you know HTML, CSS, JavaScript and JQuery.
+* A stellar portfolio of engaging products you've designed; editorial experience is important.
+* Jedi Master skills with Adobe Creative Suite as well as a pen
+* Cool points if you know HTML, CSS, JavaScript and JQuery.
 
 Location
 --------
