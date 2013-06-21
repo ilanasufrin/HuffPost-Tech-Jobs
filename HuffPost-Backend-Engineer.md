@@ -24,7 +24,7 @@ General Requirements
 * Experience with ticketing systems like JIRA
 * Experience with Test Driven Development and Continuous Integration
 * Experience with Agile Development
-* Experience with MySQL, Unix, and Open Source Software
+* Experience with MySQL, Unix, NoSQL databases and Open Source Software
 * Experience with Design Patterns, Object Oriented Programming, and Functional Programming
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
@@ -32,7 +32,7 @@ General Requirements
 Specific Requirements
 ---------------------
 * Expertise and experience with with almost any of these languages: PHP, Python, Ruby, Scala, Java, C, Erlang.
-* Expertise and experience with almost any of these frameworks: CodeIgniter, Kohana, Django, Pylons, Rails, Hibernate, Spring.
+* Expertise and experience with almost any of these frameworks: CodeIgniter, Kohana, Django, Play2, Pylons, Rails, Hibernate, Spring.
 * Expertise and experience with data stores, HTTP, REST, and caching algorithms and frameworks (Memcached, Redis)
 
 Location
