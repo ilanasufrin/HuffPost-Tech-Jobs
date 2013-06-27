@@ -1,5 +1,5 @@
-Digital Designer
-================
+Digital Design
+==============
 Huffington Post Digital Designer
 --------------------------------
 New York, NY
