@@ -13,9 +13,10 @@ HuffPost Tech Team members are hardcore software development and design professi
 Responsibilities
 ----------------
 * Develop and optimize new and existing machine learning tools and products leveraging best of breed clustering and classification techniques 
-* Actively develop new algorithms to take advantage of the massive data sets that Huffington Post has to build exciting and innovative new products
+* Actively develop new algorithms and fine tune existing ones to take advantage of the massive data sets that Huffington Post has to build exciting and innovative new products
 * Work on our next generation Stats architecture, recommendation systems and other data science technology products 
 * Work with world class editorial, community and engineering teams to deliver products rapidly 
+* Design algorithms to automate comment moderation, detect trending topics, defeat spam, and battle trolls with machine learning techniques and a corpus of nearly 300 million comments to help further tune our models
 
 Requirements
 --------------------
@@ -23,7 +24,7 @@ Requirements
 * Minimum of 5 years of actively building products in the areas of Machine Learning, NLP or large scale data mining 
 * Experience with Agile Development
 * Experience with MySQL, Unix, NoSQL databases and Open Source Software
-* Strong background in building machine learning tools in Java, Scala, Python, R or similar langauages 
+* Strong background in building machine learning tools in Java, C++, Scala, Python, R or similar languages 
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
 
