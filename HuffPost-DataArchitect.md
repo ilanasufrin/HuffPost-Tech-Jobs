@@ -14,9 +14,10 @@ Responsibilities
 ----------------
 * Build a next generation global stats infrastructure and architecture for both real-time and historical data analytics for all of the Huffington Post product suites including huffingtonpost.com, Huffpost Live and our mobile products
 * Build a world class reporting suite to complement the new stats architecture for realtime and historical analysis 
-* Enhance and optimize existing big data architecture components using Hadoop, Pig, Vertica, RabbitMQ and Redis 
+* Enhance and optimize existing big data architecture components using Hadoop, Pig, RabbitMQ and Redis 
 * Work closely with Editorial and Business teams to optimize our data and reporting needs to provide important and timely business intelligence 
 * Lead the efforts to architect our next generation data science needs such as recommendation systems, A/B Testing and other Big Data projects 
+* Taming huge amounts of text/unstructured data using not only programming paradigms like functional programming (map reduce) but the skillset in hacking scripts to deliver logic that you need to productize and operationalize
 
 General Requirements
 --------------------
