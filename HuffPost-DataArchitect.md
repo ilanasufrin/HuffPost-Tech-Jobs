@@ -1,6 +1,6 @@
-Software Engineering
+Big Data, Software Engineering
 ====================
-Software Engineer, Machine Learning
+Huffington Post Data Architect
 --------------------------------
 New York, NY
 
@@ -12,21 +12,24 @@ HuffPost Tech Team members are hardcore software development and design professi
 
 Responsibilities
 ----------------
-* Develop and optimize new and existing machine learning tools and products leveraging best of breed clustering and classification techniques 
-* Actively develop new algorithms and fine tune existing ones to take advantage of the massive data sets that Huffington Post has to build exciting and innovative new products
-* Work on our next generation Stats architecture, recommendation systems and other data science technology products 
-* Work with world class editorial, community and engineering teams to deliver products rapidly 
-* Design algorithms to automate comment moderation, detect trending topics, defeat spam, and battle trolls with machine learning techniques and a corpus of nearly 300 million comments to help further tune our models
+* Build a next generation global stats infrastructure and architecture for both real-time and historical data analytics for all of the Huffington Post product suites including huffingtonpost.com, Huffpost Live and our mobile products
+* Build a world class reporting suite to complement the new stats architecture for realtime and historical analysis 
+* Enhance and optimize existing big data architecture components using Hadoop, Pig, RabbitMQ and Redis 
+* Work closely with Editorial and Business teams to optimize our data and reporting needs to provide important and timely business intelligence 
+* Lead the efforts to architect our next generation data science needs such as recommendation systems, A/B Testing and other Big Data projects 
+* Taming huge amounts of text/unstructured data using not only programming paradigms like functional programming (map reduce) but the skillset in hacking scripts to deliver logic that you need to productize and operationalize
 
-Requirements
+General Requirements
 --------------------
-
-* Minimum of 5 years of actively building products in the areas of Machine Learning, NLP or large scale data mining 
+* 3 or more years experience building large , scalable multi-datacenter big data architectures using technologies such as Hadoop, Cassandra and Hbase
+* Familiarity with data mining algorithms such as K-Means, SVM, PageRank, etc
 * Experience with Agile Development
-* Experience with MySQL, Unix, NoSQL databases and Open Source Software
-* Strong background in building machine learning tools in Java, C++, Scala, Python, R or similar languages 
+* Experience with MySQL, Unix, NoSQL databases and Open Source Software as well as Unix system administration skills, especially scripting in Bash or Shell
+* Experience operationalizing a large data infrastructure by working closely with operations teams and integrating proper monitoring tools into the architecture
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
+* Expertise and experience with with almost any of these languages: Scala, Java, C/C++, R, Shell, Pig.
+
 
 
 Location
