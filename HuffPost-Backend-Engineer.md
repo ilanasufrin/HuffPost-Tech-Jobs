@@ -31,9 +31,9 @@ General Requirements
 
 Specific Requirements
 ---------------------
-* Expertise and experience with with almost any of these languages: PHP, Python, Ruby, Scala, Java, C, Erlang.
-* Expertise and experience with almost any of these frameworks: CodeIgniter, Kohana, Django, Play2, Pylons, Rails, Hibernate, Spring.
-* Expertise and experience with data stores, HTTP, REST, and caching algorithms and frameworks (Memcached, Redis)
+* Expertise and experience with with any of these languages: Ruby, Scala, Java, Erlang.
+* Expertise and experience with any of these frameworks: Play2, Scalatra, Rails, Hibernate, Spring.
+* Expertise and experience with SQL and NOSql data stores, building REST APIs, and caching technologies (Memcached, Redis)
 
 Location
 --------
