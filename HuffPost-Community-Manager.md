@@ -4,6 +4,8 @@ Huffington Post Community Manager
 ---------------------------------
 New York, NY
 
+Apply to Developer@HuffingtonPost.com with your Github URL and resume.
+
 Are you ready to rain change down on the world of digital journalism? Are you tired of waiting for the future of media and want to help HuffPost invent it? The Huffington Post continues to have a substantial impact on how millions of people around the world consume and converse about the important event in their lives. We publish more than a thousand articles and blog posts every day. We have over 200 million comments from our fiercely loyal community. Our Pulitzer Prize winning editors and reporters have been recognized as industry leaders. But the best kept secret about HuffPost is the world class engineering and design team who work hand-in-hand with our editorial staff to create some of the most innovative Internet media applications on the web, on your pad, and on your phone. With millions of users and billions of page views every month the Huffington Post challenges the engineer and designer with a huge audience and a chance to make a significant difference in the lives of people all over the world.
 
 As a member of the HuffPost Community Team you will drive HuffPost's community strategy lead a team of 40 in moderation, standards, and support. You'll work directly of HuffPost's CTO, product managers, engineers, and editors to help us bring innovative community management features quickly to our users and build tools to help ensure great conversations.
@@ -33,3 +35,5 @@ Specific Requirements
 Location
 --------
 The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (A, C, E, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
+
+Apply to Developer@HuffingtonPost.com with your Github URL and resume.
