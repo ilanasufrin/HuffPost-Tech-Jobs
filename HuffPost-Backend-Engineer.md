@@ -4,7 +4,7 @@ Huffington Post Backend Engineer
 --------------------------------
 New York, NY
 
-Apply to developer@HuffingtonPost.com with your github url and resume.
+Apply to developer@HuffingtonPost.com with your Github URL and resume.
 
 Are you ready to rain change down on the world of digital journalism? Are you tired of waiting for the future of media and want to help HuffPost invent it? The Huffington Post continues to have a substantial impact on how millions of people around the world consume and converse about the important event in their lives. We publish more than a thousand articles and blog posts every day. We have over 250 million comments from our fiercely loyal community. Our Pulitzer Prize winning editors and reporters have been recognized as industry leaders. But the best kept secret about HuffPost is the world class engineering and design team who work hand-in-hand with our editorial staff to create some of the most innovative Internet media applications on the web, on your pad, and on your phone. With million of users and billions of page views every month the Huffington Post challenges the engineer and designer with a huge audience and a chance to make a significant difference in the lives of people all over the world.
 
