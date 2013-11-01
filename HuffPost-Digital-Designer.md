@@ -33,6 +33,6 @@ Specific Requirements
 
 Location
 --------
-The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and the best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (A, C, E, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
+The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and the best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (N, Q, R, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
 
 Apply to Developer@HuffingtonPost.com with your Github URL and resume.
